@@ -1,7 +1,7 @@
 import pygame
 import sys
 import time
-
+import random
 from minesweeper import Minesweeper, MinesweeperAI
 
 HEIGHT = 8
